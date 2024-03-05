@@ -39,6 +39,16 @@
             "disponibilidad": true,
             "imagen": "https://ejemplo.com/imagenes/la_casa_de_los_espiritus.jpg",
             "sinopsis": "La casa de los espíritus sigue la historia de la familia Trueba en Chile a lo largo de varias generaciones, explorando temas como el amor, la política y la magia en un contexto de cambios sociales y políticos."
+        },
+ {
+            "titulo": "La casa de los espíritus",
+            "autor": "Isabel Allende",
+            "genero": "Realismo mágico",
+            "año_publicacion": 1982,
+            "isbn": "978-0553383805",
+            "disponibilidad": true,
+            "imagen": "https://ejemplo.com/imagenes/la_casa_de_los_espiritus.jpg",
+            "sinopsis": "La casa de los espíritus sigue la historia de la familia Trueba en Chile a lo largo de varias generaciones, explorando temas como el amor, la política y la magia en un contexto de cambios sociales y políticos."
         }
     ]
 }
